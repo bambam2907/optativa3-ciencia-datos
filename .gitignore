@@ -23,3 +23,7 @@ desktop.ini
 
 # Secretos
 .env
+
+# Entregables que van por Classroom, no al repo
+semana02_foro.md
+semana02_caso_practico.*
