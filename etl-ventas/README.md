@@ -103,5 +103,3 @@ Electrónica           4    7334.5
 
 Validación OK: ingreso total = $18,597.50 MXN
 ```
-
-![Salida en la terminal de VS Code](captura_salida.png)
