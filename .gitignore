@@ -24,6 +24,9 @@ desktop.ini
 # Secretos
 .env
 
+# Bases SQLite que generan los notebooks al ejecutarse
+semana06_ingenieria/*.db
+
 # Entregables que van por Classroom, no al repo
 semana02_foro.md
 semana02_caso_practico.*
